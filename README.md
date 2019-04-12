@@ -1,0 +1,9 @@
+# SimpleFileStorageLyra
+tampilan awal
+![alt text](https://github.com/lyrahrtn/SimpleFileStorageLyra/blob/master/file1.jpg)
+enter text
+![alt text](https://github.com/lyrahrtn/SimpleFileStorageLyra/blob/master/file2.jpg)
+save data
+![alt text](https://github.com/lyrahrtn/SimpleFileStorageLyra/blob/master/file3.jpg)
+load data
+![alt text](https://github.com/lyrahrtn/SimpleFileStorageLyra/blob/master/file4.jpg)
